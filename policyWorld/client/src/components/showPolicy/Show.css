@@ -1,0 +1,15 @@
+.card{
+    background-color: rgba(255, 228, 196,.6) !important;
+    border: 2px solid rgb(0, 0, 0) !important;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.9)!important;
+    
+
+}
+.textfield{
+    background-color: rgba(204, 159, 247,.4) !important;
+}
+span{
+    font-weight: 600 !important;
+    color: rgb(130, 54, 223) !important;
+    
+}

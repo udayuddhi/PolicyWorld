@@ -1,0 +1,56 @@
+
+
+.contact {
+  position: fixed;
+  margin-top: 80px;
+  padding-right: 380px;
+   padding-top: 45px;
+    background-repeat: no-repeat;
+    background: fixed;
+  }
+  .contact img {
+    width: 95%;
+  
+  }
+  .contact h2 {
+    border: 1px solid black;
+    background-color: rgba(63, 136, 185,.4);
+    border-radius: 10px;
+      font-size: 40px;
+      font-weight: 700;
+      padding: 15px;
+      /* padding-left: 120px; */
+      margin-top: 0;
+    
+    
+  }
+  
+
+  .px-1 input{
+    
+    background-color: rgb(198, 232, 240);
+    padding: 10px;
+    padding-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    
+    border-radius: 10px;
+    width: 85%;
+    box-shadow: 1px 4px 8px 0 rgba(0, 0, 0, 0.9);
+
+  }
+  .btn{
+    width: 80%;
+    border: none;
+    margin-left: 0;
+    margin-top: 25px;
+
+  }
+  .btn button{
+    border: none;
+    width: 100%;
+   border-radius: 5px;
+   height: 40px;
+  }
+  
+  
